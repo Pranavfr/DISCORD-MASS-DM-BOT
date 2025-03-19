@@ -10,6 +10,7 @@ This is a Discord bot that allows administrators to send mass direct messages to
 ## Commands
 
 ### `!mass_dm 'your mesasge`
+### 'send_dm '@mention_user your message '
 
 Send a direct message to all members of the server.
 
