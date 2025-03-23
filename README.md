@@ -16,7 +16,7 @@ Send a direct message to all members of the server
 
 **Usage:**
 
-**Examples:**
+**Example:**
 
 ### `!stop_sending_msgs`
 
