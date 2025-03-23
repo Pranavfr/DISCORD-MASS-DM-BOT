@@ -7,7 +7,7 @@ This is a Discord bot that allows administrators to send mass direct messages to
 - **Mass DM**: Send a direct message to all members of the server.
 - **Stop Sending Messages**: Stop the mass messaging process.
 
-## Commands
+## Commands:
 
 ### `!mass_dm 'your mesasge`
 ### 'send_dm '@mention_user your message '
